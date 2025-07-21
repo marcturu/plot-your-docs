@@ -31,11 +31,8 @@ def plot_representation():
             fig = px.bar(df, x=x_axis, y=y_axis, title=f"{y_axis} for {x_axis}")
             sl.plotly_chart(fig)
 
-    
-
 sl.sidebar.title("Sidebar")
 page = sl.sidebar.selectbox("", ["Main Page", "Data Visualization", "Plot Representation"])
-
 
 if page == "Main Page":
     main_page()
