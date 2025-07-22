@@ -4,10 +4,10 @@ from views import main_page, data_visualization, plot_representation, dashboard
 
 st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout="wide")
 
-# Sidebar con navegación
+# Sidebar
 page = st.sidebar.selectbox("Select a page", ["Main Page", "Data Visualization", "Plot Representation", "Dashboard"])
 
-# Control de flujo según la página
+# Flow control
 uploaded_file = None
 if page in ["Data Visualization", "Plot Representation", "Dashboard"]:
     uploaded_file = st.sidebar.file_uploader("Upload Excel or CSV file", type=["csv", "xlsx"])
