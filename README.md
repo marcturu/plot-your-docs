@@ -1,9 +1,55 @@
-# 📊 Plot your Docs!  
-### Welcome to the ultimate app for importing files, analyzing data, and visualizing statistics!  
-#### The _Dashboard_ part is meant to be used with files containging the following column structure: Account	business_unit	Currency	Year	Scenario	Jan	Feb	Mar	Apr	May	Jun	Jul	Aug	Sep	Oct	Nov	Dec  
+# 📊 Plot your Docs
 
-1. npm install streamlit pandas plotly duckdb (to install the dependencies)  
-2. streamlit run main.py (to run it locally)
+**Plot your Docs** is an intuitive and powerful app designed to import data files, analyze your business statistics, and visualize results through interactive plots and dashboards.
+
+---
+
+## ✅ Features
+
+- Import data files with a specific structure.
+- Analyze and manipulate data using **Pandas** and **DuckDB** for efficient queries.
+- Interactive visualization using **Plotly** and **Streamlit**.
+- Multiple pages for:
+  - Data import and overview.
+  - Data visualization with customizable charts.
+  - Plot representation and insights.
+  - A dashboard summarizing key metrics based on monthly data columns.
+- Supports files containing the following column structure:
+  Account business_unit Currency Year Scenario Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+---
+
+## 🛠 How It Works
+
+1. Upload your data file.  
+2. The app reads and processes data using **Pandas** and **DuckDB**.
+3. Visualize and explore data interactively with dynamic charts powered by **Plotly**.
+4. Use the Dashboard page to see aggregated statistics by accounts, business units, currencies, years, and scenarios across months.
+
+---
+
+## 📦 Installation & Setup (Local)
+
+### 1. Install dependencies
+
+```bash
+npm install streamlit pandas plotly duckdb
+```
+   > **Note:**  
+   > If you don't have npm or prefer, you can install these Python packages via pip:
+```bash
+pip install streamlit pandas plotly duckdb
+```
+
+### 2. Run the app locally  
+```bash
+streamlit run main.py
+```
+Open your browser and navigate to the displayed local URL (usually http://localhost:8501).  
+
+---
+
+## 📷 Examples:  
 
 ### Main Page:
 ![PlotYourDocs_MainPage](https://github.com/user-attachments/assets/5a2dc79c-e41d-4bf5-a09b-7f9d0f497cbb)  
