@@ -15,4 +15,13 @@
 ![PlotYourDocs_PlotRepresentation](https://github.com/user-attachments/assets/48315bc6-8746-4e65-87f1-5fee9cd9a99d)  
 
 ### Dashboard Page:
-![PlotYourDocs_Dashboard](https://github.com/user-attachments/assets/ac988749-b210-478d-b0f9-4cdd99ca2997)
+![PlotYourDocs_Dashboard](https://github.com/user-attachments/assets/ac988749-b210-478d-b0f9-4cdd99ca2997)  
+
+---
+
+## ⚖️ Copyright
+
+© 2025 Marc Turu Roca. All rights reserved.
+
+This project and its contents are the exclusive intellectual property of Marc Turu Roca.  
+All rights reserved. No part of this project may be copied, modified, distributed, or used without prior written permission from the author.
