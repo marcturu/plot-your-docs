@@ -16,8 +16,9 @@
   - Data visualization with customizable charts.
   - Plot representation and insights.
   - A dashboard summarizing key metrics based on monthly data columns.
-- Supports files containing the following column structure:
-  Account business_unit Currency Year Scenario Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+- Supports files containing the following column structure:  
+  Account business_unit Currency Year Scenario Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec  
+  Try out the `Financial Data Clean.xlsx` file :D
 
 ---
 
