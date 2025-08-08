@@ -32,11 +32,6 @@ cd StreamlitPlotDocs
 ### 2. Install dependencies
 
 ```bash
-npm install streamlit pandas plotly duckdb
-```
-   > **Note:**  
-   > If you don't have npm or prefer, you can install these Python packages via pip:
-```bash
 pip install streamlit pandas plotly duckdb
 ```
 
