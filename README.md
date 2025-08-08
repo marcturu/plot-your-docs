@@ -1,4 +1,6 @@
-# 📊 Plot your Docs
+# 📊 Plot your Docs  
+
+<sub>🗓️ Developed in July 2025</sup> 
 
 **Plot your Docs** is an intuitive and powerful app designed to import data files, analyze your business statistics, and visualize results through interactive plots and dashboards.
 
@@ -19,16 +21,7 @@
 
 ---
 
-## 🛠 How It Works
-
-1. Upload your data file.  
-2. The app reads and processes data using **Pandas** and **DuckDB**.
-3. Visualize and explore data interactively with dynamic charts powered by **Plotly**.
-4. Use the Dashboard page to see aggregated statistics by accounts, business units, currencies, years, and scenarios across months.
-
----
-
-## 📦 Installation & Setup (Local)
+## 🛠 Installation & Setup  
 
 ### 1. Install dependencies
 
