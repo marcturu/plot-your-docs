@@ -44,7 +44,7 @@ Open your browser and navigate to the displayed local URL (usually http://localh
 
 ---
 
-## 📷 Examples:  
+## 📷 Screenshots    
 
 ### Main Page:
 ![PlotYourDocs_MainPage](https://github.com/user-attachments/assets/5a2dc79c-e41d-4bf5-a09b-7f9d0f497cbb)  
