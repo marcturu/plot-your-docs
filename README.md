@@ -23,7 +23,13 @@
 
 ## 🛠 Installation & Setup  
 
-### 1. Install dependencies
+### 1. Clone the repository
+```bash
+git clone https://github.com/marcturu/StreamlitPlotDocs.git
+cd StreamlitPlotDocs
+```
+
+### 2. Install dependencies
 
 ```bash
 npm install streamlit pandas plotly duckdb
@@ -34,7 +40,7 @@ npm install streamlit pandas plotly duckdb
 pip install streamlit pandas plotly duckdb
 ```
 
-### 2. Run the app locally  
+### 3. Run the app locally  
 ```bash
 streamlit run main.py
 ```
