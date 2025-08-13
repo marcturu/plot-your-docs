@@ -2,7 +2,7 @@
 
 <sub>🗓️ Developed in July 2025</sup> 
 
-**Plot your Docs** is an intuitive and powerful app designed to import data files, analyze your business statistics, and visualize results through interactive plots and dashboards.
+**Plot your Docs** is an intuitive and powerful Streamlit app designed to import data files, analyze your business statistics, and visualize results through interactive plots and dashboards.
 
 ---
 
