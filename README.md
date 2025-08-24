@@ -60,7 +60,7 @@ Open your browser and navigate to the displayed local URL (usually http://localh
 
 ---
 
-## ⚖️ Copyright
+## ⚖️ Copyright & License
 
 © 2025 Marc Turu Roca. All rights reserved.
 
