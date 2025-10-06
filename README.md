@@ -26,7 +26,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/marcturu/StreamlitPlotDocs.git
+git clone https://github.com/marcturu/plot-your-docs.git
 cd StreamlitPlotDocs
 ```
 
