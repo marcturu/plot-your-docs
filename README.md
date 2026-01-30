@@ -47,16 +47,16 @@ Open your browser and navigate to the displayed local URL (usually http://localh
 ## 📷 Screenshots    
 
 ### Main Page:
-![PlotYourDocs_MainPage](https://github.com/user-attachments/assets/5a2dc79c-e41d-4bf5-a09b-7f9d0f497cbb)  
+![MainPage](screenshots/main_page.jpg)
 -
 ### Data Visualization Page:
-![PlotYourDocs_DataVisualization](https://github.com/user-attachments/assets/e1ac98a0-dde7-4232-b95c-7f29def7fb8a)  
+![DataVisualizationPage](screenshots/data_visualization_page.jpg)
 -
 ### Plot Representation Page:
-![PlotYourDocs_PlotRepresentation](https://github.com/user-attachments/assets/48315bc6-8746-4e65-87f1-5fee9cd9a99d)  
+![PlotRepresentationPage](screenshots/plot_representation_page.jpg)
 -
 ### Dashboard Page:
-![PlotYourDocs_Dashboard](https://github.com/user-attachments/assets/ac988749-b210-478d-b0f9-4cdd99ca2997)  
+![DashboardPage](screenshots/dashboard_page.jpg)
 
 ---
 
