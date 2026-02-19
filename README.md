@@ -1,4 +1,4 @@
-# 📊 Plot your Docs  
+# 📊 Plot your Docs — Turn raw business data into interactive insights
 
 <sub>🗓️ Developed in July 2025</sup> 
 
